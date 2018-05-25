@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace SystemNamespaceIssue.Pages.System
+namespace SystemNamespaceIssue.Pages.SystemStatus
 {
     public class IndexModel : PageModel
     {
